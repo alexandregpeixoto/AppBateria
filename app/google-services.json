@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1029132387080",
+    "firebase_url": "https://appbateria-176fa.firebaseio.com",
+    "project_id": "appbateria-176fa",
+    "storage_bucket": "appbateria-176fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029132387080:android:6c26f7b69ead8635",
+        "android_client_info": {
+          "package_name": "com.example.alexa.appbateria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029132387080-4oqu6rfdbrm1jk5fnp1sqkcgmmrl8ek4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alexa.appbateria",
+            "certificate_hash": "59d5f6b8bae3160e5c83e15e489e023f886bfe6a"
+          }
+        },
+        {
+          "client_id": "1029132387080-0k4ur0kkqr78utne1v6upv4tvi32mls6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVBJRuJTnGZUgxTaxtm0zqsKZKoB9pQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029132387080-0k4ur0kkqr78utne1v6upv4tvi32mls6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
